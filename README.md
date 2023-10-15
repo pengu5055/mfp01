@@ -14,7 +14,7 @@ Naloga želi, da z uporabi Maclaurinove vrste in asimptotskega razvoja poišče�
 ## Kar sem jaz naredil
 Tu je verjetno tisto kar te zanima. Vseeno pa priporočam, da si najprej sam poskusiš rešiti nalogo. Objavljam tudi kodo. Ta je bila včasih del večjega repozitorija, ampak sem jo sedaj izvzel v svojega, da je bolj pregledna. Koda bi morala biti razmeroma pokomentirana, sploh v kasnejših nalogah. As always za vprašanja sem na voljo.
 
-* [**Poročilo DN1**]({% link fmf-pdf/year3/mfp/Marko_Urbanč_01.pdf %})
+* [**Poročilo DN1**](https://pengu5055.github.io/fmf-pdf/year3/mfp/Marko_Urbanč_01.pdf)
 * [**Source repozitorij DN1**](https://github.com/pengu5055/mfp01)
 
 Priznam, da zna biti source repozitorij nekoliko kaotičen. Over time sem se naučil boljše prakse. Če se prav spomnem, je tole glavni `.py` file.
